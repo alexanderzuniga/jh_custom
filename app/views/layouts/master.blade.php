@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-    <title>Samuzu Inc.</title>
+    <title>JH Customs</title>
 
     <!-- Meta Tags -->
     <meta charset="utf-8">
@@ -30,7 +30,7 @@
                     <i class="fa fa-bars"></i>
                 </button>
                 <a class="navbar-brand" href="index.html">
-                    <h1>SQUAD FREE</h1>
+                    <h1>JH Customs</h1>
                 </a>
             </div>
 
@@ -38,7 +38,7 @@
             <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
       <ul class="nav navbar-nav">
         <li class="active"><a href="#intro">Home</a></li>
-        <li><a href="#about">About</a></li>
+        <li><a href="#about">Products</a></li>
 		<li><a href="#service">Service</a></li>
 		<li><a href="#contact">Contact</a></li>
         <li class="dropdown">

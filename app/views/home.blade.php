@@ -1,13 +1,10 @@
 @extends('layouts.master')
 
 @section('content')
-
-	<!-- Section: intro -->
-    <section id="intro" class="intro">
-	
+<section id="intro" class="intro">
 		<div class="slogan">
-			<h2>WELCOME TO <span class="text_color">SQUAD</span> </h2>
-			<h4>WE ARE GROUP OF GENTLEMEN MAKING AWESOME WEB WITH BOOTSTRAP</h4>
+			<h2>WELCOME TO <span class="text_color">JH Customs</span> </h2>
+			<h4>Where Quality and Creativity Meet</h4>
 		</div>
 		<div class="page-scroll">
 			<a href="#service" class="btn btn-circle">
@@ -16,7 +13,6 @@
 		</div>
     </section>
 	<!-- /Section: intro -->
-
 	<!-- Section: about -->
     <section id="about" class="home-section text-center">
 		<div class="heading-about">
@@ -25,7 +21,7 @@
 				<div class="col-lg-8 col-lg-offset-2">
 					<div class="wow bounceInDown" data-wow-delay="0.4s">
 					<div class="section-heading">
-					<h2>About us</h2>
+					<h2>Our Products</h2>
 					<i class="fa fa-2x fa-angle-down"></i>
 
 					</div>
@@ -46,9 +42,9 @@
 				<div class="wow bounceInUp" data-wow-delay="0.2s">
                 <div class="team boxed-grey">
                     <div class="inner">
-						<h5>Anna Hanaceck</h5>
-                        <p class="subtitle">Pixel Crafter</p>
-                        <div class="avatar"><img src="img/team/1.jpg" alt="" class="img-responsive img-circle" /></div>
+						<h5>The Hunter</h5>
+                        <p class="subtitle">For him</p>
+                        <div class="avatar"><img src="img/team/hunter.jpg" alt="" class="img-responsive img-thumbnail" /></div>
                     </div>
                 </div>
 				</div>
@@ -57,9 +53,9 @@
 				<div class="wow bounceInUp" data-wow-delay="0.5s">
                 <div class="team boxed-grey">
                     <div class="inner">
-						<h5>Maura Daniels</h5>
-                        <p class="subtitle">Ruby on Rails</p>
-                        <div class="avatar"><img src="img/team/2.jpg" alt="" class="img-responsive img-circle" /></div>
+						<h5>The Huntress</h5>
+                        <p class="subtitle">For her</p>
+                        <div class="avatar"><img src="img/team/pink_demo.jpg" alt="" class="img-responsive img-thumbnail" /></div>
 
                     </div>
                 </div>
@@ -69,9 +65,9 @@
 				<div class="wow bounceInUp" data-wow-delay="0.8s">
                 <div class="team boxed-grey">
                     <div class="inner">
-						<h5>Jack Briane</h5>
-                        <p class="subtitle">jQuery Ninja</p>
-                        <div class="avatar"><img src="img/team/3.jpg" alt="" class="img-responsive img-circle" /></div>
+						<h5>The Presidente</h5>
+                        <p class="subtitle">For the sophisticated</p>
+                        <div class="avatar"><img src="img/team/cigar_demo.jpg" alt="" class="img-responsive img-thumbnail" /></div>
 
                     </div>
                 </div>
@@ -81,9 +77,9 @@
 				<div class="wow bounceInUp" data-wow-delay="1s">
                 <div class="team boxed-grey">
                     <div class="inner">
-						<h5>Tom Petterson</h5>
-                        <p class="subtitle">Typographer</p>
-                        <div class="avatar"><img src="img/team/4.jpg" alt="" class="img-responsive img-circle" /></div>
+						<h5>The Executive</h5>
+                        <p class="subtitle">For the Boss</p>
+                        <div class="avatar"><img src="img/team/executive_demo.jpg" alt="" class="img-responsive img-thumbnail" /></div>
 
                     </div>
                 </div>

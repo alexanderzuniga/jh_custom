@@ -1,5 +1,5 @@
 	<!-- Section: intro -->
-<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+<div id="carousel-example-generic intro" class="carousel slide intro" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
     <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
@@ -8,7 +8,7 @@
   </ol>
 
   <!-- Wrapper for slides -->
-  <div class="carousel-inner" id="intro">
+  <div class="carousel-inner">
     <div class="item active">
       <img src="/img/tree.jpg" alt="...">
       <div class="carousel-caption">

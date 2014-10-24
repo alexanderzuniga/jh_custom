@@ -15,19 +15,15 @@
     <div class="item active">
       <img src="/img/tree.jpg" alt="...">
       <div class="carousel-caption">
-          <div class="slogan">
-            <h2>WELCOME TO <span class="text_color">JH Customs</span></h2>
+        <h2>WELCOME TO <span class="text_color">JH Customs</span></h2>
     		<h4>Where Quality and Creativity Meet</h4>
-    	  </div>
       </div>
     </div>
     <div class="item">
       <img src="/img/team/hunter_hd.jpg" alt="...">
       <div class="carousel-caption">
-       <div class="slogan">
        	<h2>WELCOME TO <span class="text_color">JH Customs</span> </h2>
 	   	<h4>Where Quality and Creativity Meet</h4>
-	   </div>
       </div>
     </div>
   </div>
@@ -48,9 +44,8 @@
 				<div class="col-lg-8 col-lg-offset-2">
 					<div class="wow bounceInDown" data-wow-delay="0.4s">
 					<div class="section-heading">
-					<h2>Our Products</h2>
-					<i class="fa fa-2x fa-angle-down"></i>
-
+  					<h2>Our Products</h2>
+  					<i class="fa fa-2x fa-angle-down"></i>
 					</div>
 					</div>
 				</div>
@@ -64,55 +59,52 @@
 				<hr class="marginbot-50">
 			</div>
 		</div>
-        <div class="row">
-            <div class="col-xs-6 col-sm-3 col-md-3">
-				<div class="wow bounceInUp" data-wow-delay="0.2s">
-                <div class="team boxed-grey">
-                    <div class="inner">
-						<h5>The Hunter</h5>
-                        <p class="subtitle">For him</p>
-                        <div class="avatar"><img src="img/team/hunter.jpg" alt="" class="img-responsive img-thumbnail" /></div>
-                    </div>
-                </div>
-				</div>
+      <div class="row">
+        <div class="col-xs-6 col-sm-3 col-md-3">
+  				<div class="wow bounceInUp" data-wow-delay="0.2s">
+            <div class="team boxed-grey">
+              <div class="inner">
+  	            <h5>The Hunter</h5>
+                <p class="subtitle">For him</p>
+                <div class="avatar"><img src="img/team/hunter.jpg" alt="" class="img-responsive img-thumbnail" /></div>
+              </div>
             </div>
-			<div class="col-xs-6 col-sm-3 col-md-3">
-				<div class="wow bounceInUp" data-wow-delay="0.5s">
-                <div class="team boxed-grey">
-                    <div class="inner">
-						<h5>The Huntress</h5>
-                        <p class="subtitle">For her</p>
-                        <div class="avatar"><img src="img/team/pink_demo.jpg" alt="" class="img-responsive img-thumbnail" /></div>
-
-                    </div>
-                </div>
-				</div>
+  				</div>
+        </div>
+  			<div class="col-xs-6 col-sm-3 col-md-3">
+  				<div class="wow bounceInUp" data-wow-delay="0.5s">
+            <div class="team boxed-grey">
+              <div class="inner">
+  	            <h5>The Huntress</h5>
+                <p class="subtitle">For her</p>
+                <div class="avatar"><img src="img/team/pink_demo.jpg" alt="" class="img-responsive img-thumbnail" /></div>
+              </div>
             </div>
-			<div class="col-xs-6 col-sm-3 col-md-3">
-				<div class="wow bounceInUp" data-wow-delay="0.8s">
-                <div class="team boxed-grey">
-                    <div class="inner">
-						<h5>The Presidente</h5>
-                        <p class="subtitle">For the sophisticated</p>
-                        <div class="avatar"><img src="img/team/cigar_demo.jpg" alt="" class="img-responsive img-thumbnail" /></div>
-
-                    </div>
-                </div>
-				</div>
+  				</div>
+        </div>
+  			<div class="col-xs-6 col-sm-3 col-md-3">
+  				<div class="wow bounceInUp" data-wow-delay="0.8s">
+            <div class="team boxed-grey">
+              <div class="inner">
+  	            <h5>The Presidente</h5>
+                <p class="subtitle">For the sophisticated</p>
+                <div class="avatar"><img src="img/team/cigar_demo.jpg" alt="" class="img-responsive img-thumbnail" /></div>
+              </div>
             </div>
-			<div class="col-xs-6 col-sm-3 col-md-3">
-				<div class="wow bounceInUp" data-wow-delay="1s">
-                <div class="team boxed-grey">
-                    <div class="inner">
-						<h5>The Executive</h5>
-                        <p class="subtitle">For the Boss</p>
-                        <div class="avatar"><img src="img/team/executive_demo.jpg" alt="" class="img-responsive img-thumbnail" /></div>
-
-                    </div>
-                </div>
-				</div>
+  				</div>
+        </div>
+  			<div class="col-xs-6 col-sm-3 col-md-3">
+  				<div class="wow bounceInUp" data-wow-delay="1s">
+            <div class="team boxed-grey">
+              <div class="inner">
+  	            <h5>The Executive</h5>
+                <p class="subtitle">For the Boss</p>
+                <div class="avatar"><img src="img/team/executive_demo.jpg" alt="" class="img-responsive img-thumbnail" /></div>
+              </div>
             </div>
-        </div>		
+  				</div>
+        </div>
+      </div>	
 		</div>
 	</section>
 	<!-- /Section: about -->
@@ -143,58 +135,9 @@
 			</div>
 		</div>
         <div class="row">
-            <div class="col-sm-3 col-md-3">
-				<div class="wow fadeInLeft" data-wow-delay="0.2s">
-                <div class="service-box">
-					<div class="service-icon">
-						<img src="img/icons/service-icon-1.png" alt="" />
-					</div>
-					<div class="service-desc">
-						<h5>Print</h5>
-						<p>Vestibulum tincidunt enim in pharetra malesuada. Duis semper magna metus electram accommodare.</p>
-					</div>
-                </div>
-				</div>
-            </div>
-			<div class="col-sm-3 col-md-3">
-				<div class="wow fadeInUp" data-wow-delay="0.2s">
-                <div class="service-box">
-					<div class="service-icon">
-						<img src="img/icons/service-icon-2.png" alt="" />
-					</div>
-					<div class="service-desc">
-						<h5>Web Design</h5>
-						<p>Vestibulum tincidunt enim in pharetra malesuada. Duis semper magna metus electram accommodare.</p>
-					</div>
-                </div>
-				</div>
-            </div>
-			<div class="col-sm-3 col-md-3">
-				<div class="wow fadeInUp" data-wow-delay="0.2s">
-                <div class="service-box">
-					<div class="service-icon">
-						<img src="img/icons/service-icon-3.png" alt="" />
-					</div>
-					<div class="service-desc">
-						<h5>Photography</h5>
-						<p>Vestibulum tincidunt enim in pharetra malesuada. Duis semper magna metus electram accommodare.</p>
-					</div>
-                </div>
-				</div>
-            </div>
-			<div class="col-sm-3 col-md-3">
-				<div class="wow fadeInRight" data-wow-delay="0.2s">
-                <div class="service-box">
-					<div class="service-icon">
-						<img src="img/icons/service-icon-4.png" alt="" />
-					</div>
-					<div class="service-desc">
-						<h5>Cloud System</h5>
-						<p>Vestibulum tincidunt enim in pharetra malesuada. Duis semper magna metus electram accommodare.</p>
-					</div>
-                </div>
-				</div>
-            </div>
+           <div class="services">
+           
+           </div>
         </div>		
 		</div>
 	</section>
@@ -244,7 +187,8 @@
                             <div class="input-group">
                                 <span class="input-group-addon"><span class="glyphicon glyphicon-envelope"></span>
                                 </span>
-                                <input type="email" class="form-control" id="email" placeholder="Enter email" required="required" /></div>
+                                <input type="email" class="form-control" id="email" placeholder="Enter email" required="required" />
+                            </div>
                         </div>
                         <div class="form-group">
                             <label for="subject">
@@ -279,7 +223,7 @@
 				<h5>Main Office</h5>
 				
 				<address>
-				  <strong>Squas Design, Inc.</strong><br>
+				  <strong>JH Customs, Inc.</strong><br>
 				  8000 Lobo Ln, San Antonio<br>
 				  TX 78240<br>
 				  <abbr title="Phone">P:</abbr> (210) 268-2018

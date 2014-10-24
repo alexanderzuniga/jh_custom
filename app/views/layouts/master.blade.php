@@ -35,15 +35,15 @@
           <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="#intro">Home</a></li>
+            <li class="active"><a href="{{action('HomeController@showHome')}}">Home</a></li>
             <li><a href="#about">Products</a></li>
           	<li><a href="#service">Service</a></li>
             <li><a href="#contact">Contact</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="#">Example menu</a></li>
-                <li><a href="#">Example menu</a></li>
+                <li><a href="{{action('HomeController@showHunter')}}">Hunter</a></li>
+                <li><a href="{{action('HomeController@showHuntress')}}">Example menu</a></li>
                 <li><a href="#">Example menu</a></li>
               </ul>
             </li>
@@ -70,7 +70,7 @@
 						</a>
 					</div>
 					</div>
-					<p>&copy;Copyright 2014 - Squad. All rights reserved.</p>
+					<p>&copy;Copyright 2014 - JH Customs. All rights reserved.</p>
 				</div>
 			</div>	
 		</div>

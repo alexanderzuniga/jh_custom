@@ -36,3 +36,9 @@ footer {
   background-color: #283033;
   border-color: #283033;
 }
+
+/*Services */
+
+.row.services {
+    background: url(/img/demo_lathe.jpg);
+} 
